@@ -33,7 +33,13 @@ Replace path with the actual directory.
 
 ## Preview :
 
+![image](https://github.com/user-attachments/assets/2bebfafa-b881-4b92-8cfb-b6475366fa78)
 
+---
+
+## Interested in More Random? 
+
+Another version of Random is being made with higher difficulty and some story!
 
 ---
 
