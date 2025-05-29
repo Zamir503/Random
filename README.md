@@ -5,7 +5,7 @@
 
 Random is a Lightweight Console Game made in C#. You have Five Attempts. Can you guess the Number?
 
-Too Low! Too High! Are they Hinting at something?
+Too Low! Too High! Are they Hinting at something? Can these clues help me win?
 
 ## Key Features :
 
@@ -15,7 +15,7 @@ Too Low! Too High! Are they Hinting at something?
 
 ---
 
-## Install Random from Winget : 
+## Install Random from Winget [ Coming Soon! ] : 
 
     winget install Random
 
