@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Chill-Astro/Random/blob/main/Random.ico" width="128px" height="128px" alt="Random Logo">
 </p>
-<h1 align="center">PyCalc-CE v1.2</h1>
+<h1 align="center">Random v1.0</h1>
 
 Random is a Lightweight Console Game made in C#. You have Five Attempts. Can you guess the Number?
 
