@@ -39,6 +39,7 @@ PrivilegesRequiredOverridesAllowed=dialog
 OutputBaseFilename=Random-Setup
 SolidCompression=yes
 WizardStyle=modern
+DisableWelcomePage=no
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
