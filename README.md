@@ -39,7 +39,7 @@ Replace path with the actual directory.
 
 ## Interested in More Random? 
 
-Another version of Random is being made with higher difficulty and some story!
+Another update of Random is being made with higher difficulty!
 
 ---
 
